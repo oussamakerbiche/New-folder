@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Malade		TAR	345	nouvelle taille enregistrement : 345
+Malade	IDDiagnostique	RUB+		IDDiagnostique est une nouvelle clé
+Diagnostique		NWL	Diagnostique (IDDiagnostique) et Malade (IDDiagnostique)	Nouvelle liaison entre les fichiers Diagnostique (IDDiagnostique) et Malade (IDDiagnostique)

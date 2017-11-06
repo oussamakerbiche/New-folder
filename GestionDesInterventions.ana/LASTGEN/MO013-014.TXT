@@ -1,0 +1,7 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Malade		TAR	633	nouvelle taille enregistrement : 633
+Malade	date_naissance	NNR	age_malade	ATTENTION : la rubrique age_malade a pour nouveau nom date_naissance
+Malade	date_naissance	CNW	Date (aaaammjj)$Entier sur 4 octets	la rubrique date_naissance a pour nouveau type Date (aaaammjj)
+Malade	IDSoins	RUB+		IDSoins est une nouvelle clé
+Soins		NFI		nouveau fichier
+Soins		NWL	Soins (IDSoins) et Malade (IDSoins)	Nouvelle liaison entre les fichiers Soins (IDSoins) et Malade (IDSoins)

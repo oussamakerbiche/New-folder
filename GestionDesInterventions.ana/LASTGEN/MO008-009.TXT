@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Malade		TAR	663	nouvelle taille enregistrement : 663
+Malade	etat	RUB+		etat est une nouvelle rubrique

@@ -1,0 +1,4 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Malade		TAR	642	nouvelle taille enregistrement : 642
+Malade	IDoeil	RUB+		IDoeil est une nouvelle clé
+oeil		NWL	oeil (IDoeil) et Malade (IDoeil)	Nouvelle liaison entre les fichiers oeil (IDoeil) et Malade (IDoeil)

@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Malade		TAR	353	nouvelle taille enregistrement : 353
+Malade	IDtype_anesthese	RUB+		IDtype_anesthese est une nouvelle clé
+type_anesthese		NFI		nouveau fichier
+type_anesthese		NWL	type_anesthese (IDtype_anesthese) et Malade (IDtype_anesthese)	Nouvelle liaison entre les fichiers type_anesthese (IDtype_anesthese) et Malade (IDtype_anesthese)

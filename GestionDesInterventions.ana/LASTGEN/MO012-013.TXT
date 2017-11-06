@@ -1,0 +1,4 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Malade		TAR	620	nouvelle taille enregistrement : 620
+Malade	protocole	RUB+		protocole est une nouvelle rubrique
+Malade	etat	RUB-		la rubrique etat est supprimée

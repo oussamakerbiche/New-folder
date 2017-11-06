@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Malade		TAR	898	nouvelle taille enregistrement : 898
+Malade	observation	RUB+		observation est une nouvelle rubrique

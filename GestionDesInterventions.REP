@@ -1,0 +1,12 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=9	;Analysis GUID
+LOCALIZATION_UTF8=5D085D0E2C4B48D4B28E940B30B34822	Protocole	C:\Mes Projets\Gestion Des Interventions\Exe\Protocole.fic
+LOCALIZATION_UTF8=FC30A16673484F16BA2479039351EBC8	type_anesthese	C:\Mes Projets\Gestion Des Interventions\Exe\type_anesthese.fic
+LOCALIZATION_UTF8=1120586E99B2409F9DD0FD36D673D3D7	Intervention	C:\Mes Projets\Gestion Des Interventions\Exe\Intervention.fic
+LOCALIZATION_UTF8=645FA2FFFFE24FFDA0558B43A8DF68E4	compte	C:\Mes Projets\Gestion Des Interventions\Exe\compte.fic
+LOCALIZATION_UTF8=0273459544A143058F6809D3A500105D	Soins	C:\Mes Projets\Gestion Des Interventions\Exe\Soins.fic
+LOCALIZATION_UTF8=0D812C5A7156487AA2899304A597D0ED	oeil	C:\Mes Projets\Gestion Des Interventions\Exe\oeil.fic
+LOCALIZATION_UTF8=1120586E99B2409F9DD0FD36D673D3D7	Diagnostique	C:\Mes Projets\Gestion Des Interventions\EXE\Intervention.fic
+LOCALIZATION_UTF8=27B521E39D834D15A8A418CA1F303493	Interventions	C:\Mes Projets\Gestion Des Interventions\Exe\Interventions.fic
+LOCALIZATION_UTF8=6FCDDD15CE43445296C8439FD4941402	Malade	C:\Mes Projets\Gestion Des Interventions\Exe\Malade.fic

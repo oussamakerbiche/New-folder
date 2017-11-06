@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Diagnostique		TAR	276	nouvelle taille enregistrement : 276
+Diagnostique	protocole	RUB+		protocole est une nouvelle rubrique
+Diagnostique		FIC-	Protocole	Fichier supprimé Protocole

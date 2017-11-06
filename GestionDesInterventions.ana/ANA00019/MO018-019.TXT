@@ -1,0 +1,11 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Malade		TAR	1162	nouvelle taille enregistrement : 1162
+Malade	IDDiagnostique	NNR	IDIntervention	ATTENTION : la clé IDIntervention a pour nouveau nom IDDiagnostique
+Malade	IDInterventions	RUB+		IDInterventions est une nouvelle clé
+Diagnostique		NNF*	Intervention	nouveau nom Diagnostique
+Diagnostique		TAR	268	nouvelle taille enregistrement : 268
+Diagnostique	IDDiagnostique	NNR	IDIntervention	ATTENTION : la clé IDIntervention a pour nouveau nom IDDiagnostique
+Diagnostique	protocole	RUB-		la rubrique protocole est supprimée
+Interventions		NFI		nouveau fichier
+Diagnostique		NWL	Diagnostique (IDDiagnostique) et Interventions (IDDiagnostique)	Nouvelle liaison entre les fichiers Diagnostique (IDDiagnostique) et Interventions (IDDiagnostique)
+Interventions		NWL	Interventions (IDInterventions) et Malade (IDInterventions)	Nouvelle liaison entre les fichiers Interventions (IDInterventions) et Malade (IDInterventions)

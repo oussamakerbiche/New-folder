@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Malade		TAR	1154	nouvelle taille enregistrement : 1154
+Malade	geste_supp	RUB+		geste_supp est une nouvelle rubrique

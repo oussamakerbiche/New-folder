@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Malade		TAR	612	nouvelle taille enregistrement : 612
+Malade	diagnostique	RUB+		diagnostique est une nouvelle rubrique
